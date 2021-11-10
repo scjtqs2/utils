@@ -1,4 +1,4 @@
-module github.com/scjtqs/utils
+module github.com/scjtqs2/utils
 
 go 1.13
 
